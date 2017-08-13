@@ -32,7 +32,7 @@ Examples - Simple Modifiers:
 |Tokawaje|English|
 |-|-|
 |**uvowo itatitawa avowazo.**|The back of the caravan is (only slightly) moving forward.
-|**usysetati isejazo avapo ilyko.**|The number of them that (did) most (of it) has gone down, contrary to my preference.
+|**usyse isejazo avapo ilyko.**|The number that (did) most (of it) has gone down, contrary to my preference.
 |**utemi uvapehise ivapahiso avapo ivuti etemi evowehise.**|The top-right wall is now down on the ground.
 
 test
