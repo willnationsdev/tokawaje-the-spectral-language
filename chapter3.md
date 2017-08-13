@@ -31,6 +31,9 @@ Examples - Simple Modifiers:
 
 |Tokawaje|English|
 |-|-|
+|**uvowo itatitawa avowazo.**|The back of the caravan is (only slightly) moving forward.
+|**usysetati isejazo avapo ilyko.**|The number of them that (did) most (of it) has gone down, contrary to my preference.
+|**utemi uvapehise ivapahiso avapo ivuti etemi uvowehise.**|The top-right wall is now down on the ground.
 
 test
 
@@ -38,6 +41,10 @@ Examples - Advanced Modifiers:
 
 |Tokawaje|English|
 |-|-|
+|**atokasysa itymaseja.**|(I) lecture constantly.
+|**atokasysa ityma isejazo.**|(I) lecture most of the time.
+|**atokasysa ivutizi itato isejazo.**|(I) lecture RIGHT now (generally speaking), most of the time.
+|**atoka asysaza ivutizi itato isejazo.**|(I) give a huge lecture RIGHT now (generally speaking), most of the time.
 
 test
 
