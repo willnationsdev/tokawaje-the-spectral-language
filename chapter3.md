@@ -35,7 +35,11 @@ Examples - Simple Modifiers:
 |**usyse isejazo avapo ilyko.**|The number that (did) most (of it) has gone down, contrary to my preference.
 |**utemi uvapehise ivapahiso avapo ivuti etemi evowehise.**|The top-right wall is now down on the ground.
 
-test
+So modifiers allow you to shift tags and their meanings away from the "what" of a concept and towards a secondary description of the concept; we therefore have both micro and macro level "primary and secondary qualities" for a concept. The first tag on the concept states the core "what" and subsequent tags serve to elaborate on that "what". These descriptions are all still on a macro, high-level scale though. The same sorts of descriptions attached to a modifier are what provide a more micro, low-level idea of that entity or relation's properties.
+
+For the examples above, try to understand how the modifiers act as an adjective or adverb whose concept is built up separately from the modified concept. How might the sentence's meaning change if the tags on a modifier were moved over to the modified concept, e.g. if the properties describing the adjective were instead describing the noun?
+
+Modifiers can also enable even more fine-tuned descriptions since they can target individual tags and not just the concept as a whole. We can accomplish this by breaking up the concept's tags into multiple words and then inserting modifiers in between those words, as in the examples below.
 
 Examples - Advanced Modifiers:
 
@@ -50,7 +54,17 @@ test
 
 # 3.2 Transitivity
 
-test
+So far, we have only written sentences that portray a static scene with no action: a character has some relationship or has some state, but not actually doing anything to anything else. For that we have to design a transitive verb which no relations in Tokawaje will represent by default.
+
+If we wanted to be able to distinguish guide between a relation of state (e.g. **umina avapo emino.** - "I am below you.") and a relation of action in which the state relation is applied from the subject to the object ("I *down* you," i.e. "I push you down," or "I put you down,"), then we need to alter the meaning of the verb to add transitivity and trigger that "apply" effect from the subject to the object. This is done using the **ze** tag.
+
+|Tokawaje|English|
+|-|-|
+|**umina avapo emino.**|I am below you
+|**umina avapoze emino.**|I drop you. I push you down. I let you down. (etc.)
+|**.**|
+|**.**|
+
 
 # 3.3 Vocabulary Review
 
