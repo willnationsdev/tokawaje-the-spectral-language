@@ -84,17 +84,17 @@ We will continue to expand these linguistic mechanics as we learn more of Tokawa
 
 This chapter's vocabulary is split between words referring to actions, and words referring to descriptions of abstract concepts.
 
-**tul** and **tuw** deal with the applications of things, either as "to use" or as "to do/work with" generically. **tul** in particular deals with the entire spectrum of usage, involving of course the non-use of something and things which inhibit usage. **tuw** similarly controls the action, inaction, and restful state of something. When used in combination with **ze** and other root tags, these terms can give us much more powerful verbs.
+**tul** and **tuw** deal with the applications of things, either as "to use" or as "to do/work with" generically. **tul** in particular deals with the entire spectrum of usage, involving also the non-use of something and things which inhibit usage. **tuw** similarly controls the action, inaction, and restful state of something. 
 
 |Tokawaje|English|
 |-|-|
-|**.**|
-|**.**|
-|**.**|
+|**utuwaze atoka ekynatuwa imino.**|The act of working speaks to your work-interest.
+|**umana atuwa inamo etuwasysaza.**|He works exclusively on large projects.
+|**utuwa aposa. utuwo aposaza. utuwi aposozozo.**|Work is good. Rest is better. Inaction is the worst.
+|**utula imina avapaze elyke inamalykaze imino.**|My usage increases your likeability in the polls (countings of preference).
+|**uhumatuwa asejiza ehuma itulaza.**|More than half of workers are *useful* people.
 
-test
-
-**kos**, **saw**, and **mek**
+**kos** is a term that refers to input and output, i.e. consumption and production. As such, it has related uses for both **saw**, the root used for quoting explicit statements, thoughts, feelings and intuitions, and **mek**, the root responsible for creation, maintenance, and destruction. **kos** and **mek** have production (**koso**) and creation (**meka**) manifestations with very similar meanings. **koso** can also refer to the output of anything, including speech, which then pulls into the domain of **sawa** ("to speak").
 
 |Tokawaje|English|
 |-|-|
