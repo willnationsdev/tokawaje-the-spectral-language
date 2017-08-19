@@ -1,17 +1,19 @@
 |Root|-e (spectrum)|-a (positive)|-i (neutral)|-o (negative)|
 |-|-|-|-|-|
 |tul|usage|to use, useful|frivolous, not useful|burden, blocking use
-|kos|consumption|consume|nothing in or out|produce
-|saw|intentional ideas|to say (aloud)|to feel (emotionally)|to think (in the mind)
+|ten|identity|famous, infamous|identity|anonymous, unnamed
+|laj|range/proximity|far|not close or far|clsoe by, near
 |mek|creation|create, make, build|maintain, update|destroy, ruin, unmake
-|tuw|activeness|action, do, work|inaction, relaxation|sleep, rest
-|taj|danger|thrilling, exciting|plain boring and safe|dangerous
-|paw|powerfulness|power, energized|weak|drain, try, use energy
+|tuw|activeness|action, do, work|attempt, try|sleep, rest
+|taj|danger|dangerous|thrilling, exciting|calming
+|paw|powerfulness|power, energized|average strength|not powerful, weak
 |vyt|conflict|fight, argument|armistice, truce|peace, no conflict
 |vit|virtuousness|virtuous|morally ambiguous|evil
 |loj|loyalty-ness|loyal, loyalty|independent, unbiased|traitorous, betrayal
 |lov|love-hate|love, adoration|do not love or hate|hate, malice
 |wem|whelmingness|overwhelming|within expectations|underwhelming
+|ze|application||||
+|fa, fi, fo||specific foreign name|in-language Tokawajan name|generic custom name|
 
 # 3.1 Modifiers
 
@@ -85,38 +87,63 @@ At this point, we have a variety of tools at our disposal to manipulate the spec
 
 We will continue to expand these linguistic mechanics as we learn more of Tokawaje, so it is important that we keep an eye on what can be done with what vocabulary we've learned thus far. Try to experiment with sentence constructions to see what sorts of ideas we can convey using these techniques.
 
-# 3.3 Vocabulary Review
+# 3.3 Basic Naming
 
-This chapter's vocabulary is split between words referring to actions, and words referring to descriptions of abstract concepts.
+Because we are adding the **ten** root in this chapter, it is important to include one more small concept. The naming particles **fa**, **fi**, and **fo**. Simply put, adding this particle implies that the following *word* will be a custom term in the language. *All* custom terms in Tokawaje (until they are adapted into the language using **fi**), must use capitalized terms, e.g. "Car" instead of "car".
 
-**tul** and **tuw** deal with the applications of things, either as "to use" or as "to do/work with" generically. **tul** in particular deals with the entire spectrum of usage, involving also the non-use of something and things which inhibit usage. **tuw** similarly controls the action, inaction, and restful state of something. 
+**fi** implies that the new word should also conform to Tokawaje syntax-constraints (using root/particle consonants and vowels, and having a CVC root form) so that you can effectively create new Tokawaje words on the fly if needed. Doing this is not recommended for beginners, but it should be noted that the language supports this capacity so that people can tinker with the content of official "releases" of the language (for scripting purposes).
+
+**fa** and **fo** allow us to introduce foreign terms, such as names, to the language. This works especially well with the **ten** root for providing an identity to entities and relations.
+
+A note for programmers: Naming is effectively just the creation of macros that inject the associated Tokawaje anytime the referenced name is used.
+
+|Tokawaje|English|
+|-|-|
+|**umina ateni efa Will.**|I am known as "Will".
+|**uhumi itata ateni efo Zombie.**|That humanoid is known as a "Zombie".
+|**utokasysa avela efi Lak. umina alyka elaka.**|Lectures are "lak". I like lectures.
+
+**fa** can give us the exact name of a particular entity whereas if we wish to attach a name to a class of entities, we would use **fo**. **fi**, as you can see, provides opportunities to create new roots. The manifestations of these roots can also be elaborated on expliclty, e.g. **ufi Lako avela utymatokosysa** ("lako" is a large silent period).
+
+# 3.4 Vocabulary Review
+
+This chapter's vocabulary is largely split between words referring to actions, abstract qualities, and some supplemental material.
+
+**tul** and **tuw** deal with the applications of things, either as "to use" or as "to do/work with" generically. **tul** in particular deals with the entire spectrum of usage, involving also the non-use of something and things which inhibit usage. **tuw** similarly indicates the action, inaction, and restful state of something. 
 
 |Tokawaje|English|
 |-|-|
 |**utuwaze atoka ekynatuwa imino.**|The act of working speaks to your work-interest.
 |**umana atuwa inamo etuwasysaza.**|He works exclusively on large projects.
-|**utuwa aposa. utuwo aposaza. utuwi aposozozo.**|Work is good. Rest is better. Inaction is the worst.
 |**utula imina avapaze elyke inamalykaze imino.**|My usage increases your likeability in the polls (countings of preference).
 |**uhumatuwa asejiza ehuma itulaza.**|More than half of workers are *useful* people.
 
-**kos** is a term that refers to input and output, i.e. consumption and production. As such, it has related uses for both **saw**, the root used for quoting explicit statements, thoughts, feelings and intuitions, and **mek**, the root responsible for creation, maintenance, and destruction. **kos** and **mek** have production (**koso**) and creation (**meka**) manifestations with very similar meanings. **koso** can also refer to the output of anything, including speech, which then pulls into the domain of **sawa** ("to speak").
+**ten** refers to one's identity, whether they are (in)famous, not famous (but have an identity), and whether they have no identity and/or are anonymous. It is therefore useful for referring to people by name along with having more public titles. You can also convey the secretiveness of the name based on the usage of **ten**.
+
+**mek** is the root responsible for creation, maintenance, and destruction. As such, we can use it for a variety of transitive actions regarding the well-being or state of other entities. **laj** is a leftover from the previous chapter's content regarding positioning: it refers to the range of something, i.e. how far or close it is.
 
 |Tokawaje|English|
 |-|-|
-|**.**|
-|**.**|
-|**.**|
+|**umina atena emeka itokawaje.**|I am famously known for the Tokawajan creation.
+|**utuwa ameko enisa imina.**|Work destroys my internals.
+|**uhumo itatalaja avela uhumopape imina.**|That animal way over there is my pet.
+|**umina atenizo efa Batman.**|I am (lesser) known as "Batman".
 
-test
-
-**taj**, **paw**, and **vyt**
+**taj**, **paw**, and **vyt** are all words that have to do with discussing conflict. **vyt** explicitly refers to conflict along with a temporary (truce) and permanent (peace) lack of conflict. **taj** allows us to refer to the relative excitement of something, ranging from dangerous to exciting to calming. **paw** meanwhile informs us of one's relative power, average-ness, or weakness.
 
 |Tokawaje|English|
 |-|-|
-|**.**|
-|**.**|
-|**.**|
+|**utokavyta avela etaji.**|Debates are thrilling.
+|**uhumatato alyka evyto.**|Humans like peace.
+|**utuwa apawoze emina.**|Work drains me.
+|**umina alyka etuwi ipawa.**|I like strong attempts.
 
-test
+**vit**, **loj**, **lov**, and **wem** **vit** is the root for virtuousness, defining the moral standing of the entity or relation. **loj** and **lov** are similar, but deal with loyalty and love, respectively, as opposed to virtue. Finally, **wem** conveys the degree to which something fell within our expectations, providing an avenue for expressing over- and underwhelming feelings.
 
-**vit**, **loj**, **lov**, and **wem**
+|Tokawaje|English|
+|-|-|
+|**uhumavita itato avitaze ehumatato.**|Heroes inspire virtue in people.
+|**uhumopape imina avela uhumoloja.**|My pet is a loyal-animal. (dog?)
+|**uhumalova imina ateni efa Rachel.**|My spouse/girlfriend is named Rachel.
+|**elojo imanatata awemi.**|His disloyalty is expected.
+|**uhumavito isejazo awema epawa ihumavita.**|The villain nearly overwhelms the hero's power.
