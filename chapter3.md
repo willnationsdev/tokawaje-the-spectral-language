@@ -25,7 +25,7 @@ Examples - Modifier Introduction:
 |-|-|
 |**uhuma.**|Person.
 |**uhumavelo.**|Deceit-person. (a politician? a spy?)
-|**uhuma ivelo.**|Person of lies. (probably a liar)
+|**uhuma ivelo.**|Person of lies. (a human who lies, probably just a liar)
 
 Contrasting the third example from the second is the inclusion of the **ivelo** modifier on the **ehuma** object concept. When **velo** is directly attached to the **e-** concept, we are saying that something about the very nature of this human is associated with deceit. On the other hand, when **velo** is indirectly associated with the **e-** concept through an **i-** modifier, we are indicating that the "class" of concept we are discussing is a human, but that this human has some additional quality about them that makes them worthy of being described as deceitful.
 

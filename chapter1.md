@@ -82,7 +82,7 @@ In a moment, we'll examine the grammar prefix; however, it is the latter element
 
 Every root in Tokawaje is made up of three letters: a root consonant, a vowel, and another root consonant. These root consonants are derived from the list you previously reviewed in the alphabet section (1.1). Each root provides a range of meanings that are available to it, and a precision suffix is then appended to the root to select a particular meaning.
 
-For example, the **vel** in the word **vela** is the root that narrows our meaning to the topic of truth and reality. If you examine its corresponding spectrum of ideas, you'll notice that **vel** encompasses the full range of the truth spectrum, not just truth. Adding an a, the positive suffix, to get **vela** is what singles out the meaning of truth precisely. If we were to use the negative precision suffix for **velo**, then we would have the word which opposes truth, namely a lack of truth or falsehood. The neutral state of a word, those ending in **i**, will often times yield meanings that are not quite at either extreme. For example, **veli** means "not truth", but also "not falsehood". An applicable illustration of this concept is in symbolism where one indeed refers to a true something, but not at all as it appears in reality, i.e. a half-truth or allegory. Another example would be **min**, the reference topic where **mina** is a reference for "self", **mino**, a reference for "you", and **mini** for "he/she/it/other".
+For example, the **vel** in the word **vela** is the root that narrows our meaning to the topic of truth and reality. If you examine its corresponding spectrum of ideas, you'll notice that **vel** encompasses the full range of the truth spectrum, not just truth. Adding an **a**, the positive suffix, to get **vela** is what singles out the meaning of truth precisely. If we were to use the negative precision suffix for **velo**, then we would have the word which opposes truth, namely a lack of truth or falsehood. The neutral state of a word, those ending in **i**, will often times yield meanings that are not quite at either extreme. For example, **veli** means "not truth", but also "not falsehood". An applicable illustration of this concept is in symbolism where one indeed refers to a true something, but not at all as it appears in reality, i.e. a half-truth or allegory. Another example would be **min**, the reference topic where **mina** is a reference for "self", **mino**, a reference for "you", and **mini** for "he/she/it/other".
 
 ### Sentence Structure: Entities and Relations
 
@@ -92,7 +92,7 @@ Every word in Tokawaje allows one to match properties to a part of speech. Howev
 
 **umina avela.**
 
-Can you guess what this sentence means? In a literal sense, it means "The self-entity has a truth-relation." The first word's starting u informs us that the mina tag or quality is to be attributed to the relating entity, i.e. the subject of the relation, while the second word's a tells us that the vela tag is part of the relation. The closest example of this concept in English is the sentence "I am," or "I exist."
+Can you guess what this sentence means? In a literal sense, it means "The self-entity has a truth-relation." The first word's starting **u** informs us that the mina tag or quality is to be attributed to the relating entity, i.e. the subject of the relation, while the second word's **a** tells us that the vela tag is part of the relation. The closest example of this concept in English is the sentence "I am," or "I exist."
 
 To change the relating entity for the relation, all we need to do is alter the precision suffix of the left-hand entity as needed:
 
@@ -136,7 +136,7 @@ Finally, take the following example as an illustration of how sentence structure
 |**evela, umina avela.**|I am real. (positioned as "Real, I am")
 |**avela umina evela.**|I am real. (positioned as "Am I real")
 
-The positioning of words has no effect on the resulting meaning behind them so long as they are matched to the same prefix. You'll see also that the comma was completely ignored. This is because, as far as Tokawaje is concerned, commas are purely cosmetic and serve no purpose in interpreting the concepts conveyed by the language. Ultimately all that matter is the relationships between the tags and their associated concepts. With that said, general convention will have sentences follow a subject-relation-object pattern. Later on however, we'll discover more complex patterns available to a Tokawajan speaker.
+The positioning of words has no effect on the resulting meaning behind them so long as they are matched to the same prefix. You'll see also that the comma was completely ignored. This is because, as far as Tokawaje is concerned, commas are purely cosmetic and serve no purpose in interpreting the concepts conveyed by the language. Ultimately all that matters is the relationships between the tags and their associated concepts. With that said, general convention will have sentences follow a subject-relation-object pattern. Later on however, we'll discover more complex patterns available to a Tokawajan speaker.
 
 # 1.3 Vocabulary Review
 
@@ -180,8 +180,8 @@ Examples - **lyk**, **hum**, **kyn**:
 |Tokawaje|English|
 |-|-|
 |**uhuma avela ekyni.**|The person is boring.
-|**upapo alyka ehumo.**|The child likes animals.
-|**umina akyna ehume.**|I am interested in all living things.
+|**upapo alyka ehumo.**|The child likes the animal.
+|**umina akyna ehume.**|I am interested in all living creatures.
 |**umini ahuma.**|It "human"s. (uh...what?)
 
 Most of these are self explanatory at this point, however the last one is a bit odd. In this sentence, all we are saying is that the "it" **umini** exists is doing some action or existing in some state (e.g. "It burns", "It sleeps") that is most characterized by attributing the concept of humanity to the action or state. Quite literally, "It humans." To say that it *is* human would be **umini avela ehuma.**
