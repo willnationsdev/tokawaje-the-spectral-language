@@ -1,4 +1,4 @@
-|Root|-e (spectrum)|-a (positive)|-i (neutral)|-o (negative)|
+|Root|-e (spectrum)|-a (positive)|-i (neutral)|-o (negative)|-u (extra #1)
 |-|-|-|-|-|
 |kon|concreteness|concrete, "solid"|ethereal, "spirit"|abstract, "idea"
 |tel|*this* planet|Earth, Earthen|atmospheric, orbital|celestial
