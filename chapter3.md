@@ -2,7 +2,7 @@
 |-|-|-|-|-|
 |tul|usage|to use, useful|frivolous, not useful|burden, blocking use
 |ten|identity|famous, infamous|identity|anonymous, unnamed
-|laj|range/proximity|far|not close or far|clsoe by, near
+|laj|range/proximity|far|not close or far|close by, near
 |mek|creation|create, make, build|maintain, update|destroy, ruin, unmake
 |tuw|activeness|action, do, work|attempt, try|sleep, rest
 |taj|danger|dangerous|thrilling, exciting|calming
