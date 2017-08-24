@@ -11,8 +11,9 @@
 |suw|flavoring|sweet|spicy|bitter
 |wyn|bodily influences|drugs, to take drugs|medicine/supplements, to medicate|alcohol
 |xa, xo, xu||context-open||context-close|context-cascade-close
+|fe|filler term||||
 
-# 4.1 Contexts and Secrets (WIP)
+# 4.1 Contexts (WIP)
 
 We've already discussed previously how phrases in Tokawaje use an entity-relation-entity syntax rather than a subject-verb-object syntax like many other Western languages. Thus far however, this distinction has been largely ignored. In this chapter, we'll begin to see how this principle takes root with the introduction of *contexts*.
 
@@ -66,4 +67,21 @@ Examples - Mixing **xa**, **xo**, and **xu**:
 
 The sentences above showcase the semantic effect of changing a **xu** to a **xo** as well as removing it entirely: we can end up applying our tags to parts of speech in a preceding context unintentionally, having catastrophic consequences on our intended meaning.
 
-Contexts can provide us with a wealth of flexibility in how we phrase ideas. In English, phrases of this sort (without the parentheses) would be much more vague in their meaning. That ambiguity is removed in Tokawaje's context technique. Combined with other roots like **tym** and **vap**, we can develop all manner of dependent phrases to modify entities and relations such as in the sentence **umina atokasysa ixa aniso evapehise itata,** (I lecture on the other side of that wall).
+Contexts can provide us with a wealth of flexibility in how we phrase ideas. In English, phrases of this sort (without the parentheses) would be much more vague in their meaning. That ambiguity is removed in Tokawaje's context technique. Combined with other roots like **tym** and **vap**, we can develop all manner of dependent phrases to modify entities and relations. 
+
+Examples - non-verbal relations:
+|Tokawaje|English|
+|-|-|
+|**umina atokasysa ixa aniso evapehise itata.**|I lecture on the other side of that wall.
+
+# Secrets and Filler (WIP)
+
+When partial sentences are constructed, either in the original context or in nested contexts, the lack of parts of speech can lead to confusion. As such, Tokawaje needs some means of formalizing how a lack of concepts should be interpreted.
+
+Let's re-examine the previous example about lecturing beyond a wall. The nested phrase **aniso evapehise itata** doesn't include any sort of left-hand entity. Because Tokawaje contexts need to have a relating entity, one might otherwise think that the sentence means "I lecture (it is outside that wall)," or something to that effect. However, the reason this is inaccurate is because of *secrets*.
+
+A secret is an entity that is undefined in the current context.
+
+
+
+
